@@ -2,8 +2,6 @@ package com.devmarcelo.gamelist.dto;
 
 import com.devmarcelo.gamelist.entities.Game;
 
-import jakarta.persistence.Column;
-
 public class GameMinDTO {
     private Long id;
     private String title;
